@@ -8,10 +8,7 @@
   <br>
   <a href="https://github.com/k4lu-0p" target="blank"><img src="https://img.shields.io/github/followers/k4lu-0p?style=social" alt="github"></a>
   <br>
-  <a href="https://twitter.com/tacxtv" target="blank"><img src="https://img.shields.io/twitter/follow/tacxtv?style=social&logo=twitter" alt="twitter"/></a>
-  <a href="https://instagram.com/tacxtv" target="blank"><img src="https://img.shields.io/twitter/follow/tacxtv?style=social&logo=instagram" alt="instagram"></a>
-  <a href="https://www.tiktok.com/@tacxtv" target="blank"><img src="https://img.shields.io/twitter/follow/tacxtv?style=social&logo=tiktok" alt="tiktok"></a>
-  <a href="https://discord.gg/NURBhQhY3f" target="blank"><img src="https://img.shields.io/discord/824189401730252820?style=flat&label=Discord&color=%23F0F0F0&logo=discord&logoColor=white" alt="discord"></a>
+  <a href="https://twitter.com/LucasRobin16" target="blank"><img src="https://img.shields.io/twitter/follow/LucasRobin16?style=social&logo=twitter" alt="twitter"/></a>
 </p>
 
 ## My stats
