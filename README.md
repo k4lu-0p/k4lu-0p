@@ -3,8 +3,6 @@
 <p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6441A5&center=true&width=550&lines=I'm+currently+working+as+Front+End+Developer" alt="Typing SVG" /></p>
 
 <p align="center">
-  <a href="https://github.com/k4lu-0p" target="blank"><img src="https://img.shields.io/github/followers/k4lu-0p?style=social" alt="github"></a>
-  <br>
   <a href="https://twitter.com/LucasRobin16" target="blank"><img src="https://img.shields.io/twitter/follow/LucasRobin16?style=social&logo=twitter" alt="twitter"/></a>
 </p>
 
