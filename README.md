@@ -1,6 +1,6 @@
 <h1 align="center">Hello world 👋🏻 I'm Lucas</h1>
 
-<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&width=550&lines=I'm+currently+working+as+Front+End+Developer" alt="Typing SVG" /></p>
+<p align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=41B883&center=true&width=550&lines=I'm+currently+working+as+Full+Stack+Developer" alt="Typing SVG" /></p>
 
 <p align="center">
   <a href="https://twitter.com/LucasRobin16" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="twitter"/></a>
